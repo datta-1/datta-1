@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narasimha</h1>
 <h3 align="center">A Political Analyst</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datta-1" alt="datta-1" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend and UI/UX**
 
