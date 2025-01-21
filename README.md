@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narasimha</h1>
-<h3 align="center">A Political Analyst</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 - 🔭 I’m currently working on **Frontend and UI/UX**
